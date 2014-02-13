@@ -1,6 +1,6 @@
 {
   "name": "localized-emailer",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "main": "./lib/localized-emailer.js",
   "description": "Sends localized emails",
   "homepage": "http://grydstedt/localized-emailer",
