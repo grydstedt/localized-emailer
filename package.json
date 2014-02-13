@@ -1,13 +1,13 @@
 {
   "name": "localized-emailer",
-  "version": "0.0.4",
-  "main": "lib/localized-emailer.js",
+  "version": "0.0.5",
+  "main": "./lib/localized-emailer.js",
   "description": "Sends localized emails",
   "homepage": "http://grydstedt/localized-emailer",
   "author": "Gustav Rydstedt",
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/grydstedt/localized-emailer"
+    "url": "https://github.com/grydstedt/localized-emailer.git"
   },
   "licenses": [
     {
