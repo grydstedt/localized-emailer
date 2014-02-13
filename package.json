@@ -1,14 +1,10 @@
 {
   "name": "localized-emailer",
-  "version": "0.0.0",
+  "version": "0.0.3",
   "main": "lib/localized-emailer.js",
   "description": "Sends localized emails",
-  "homepage": "grydstedt/localized-emailer",
-  "bugs": "grydstedt/localized-emailer/issues",
-  "author": {
-    "name": "Gustav Rydstedt",
-    "email": ""
-  },
+  "homepage": "http://grydstedt/localized-emailer",
+  "author": "Gustav Rydstedt",
   "repository": {
     "type": "git",
     "url": "user/repo"
@@ -18,9 +14,7 @@
       "type": "MIT"
     }
   ],
-  "files": [
-    ""
-  ],
+  "files": [],
   "keywords": [],
   "devDependencies": {
     "grunt-contrib-jshint": "~0.7.0",
@@ -39,5 +33,9 @@
     "async": "~0.2.10",
     "ejs": "~0.8.5",
     "request": "~2.33.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT"
 }
