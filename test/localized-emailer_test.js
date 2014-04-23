@@ -77,6 +77,7 @@ exports.localizedEmailer = {
             locale: 'es',
             from:'verbling@verbling.com',
             to: 'gustav.rydstedt@gmail.com',
+            layout: 'test_layout'
           }, 
           function(err) {
             test.done();
